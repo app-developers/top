@@ -33,6 +33,22 @@ Logo | <b>Website</b> | <b>Location</b>
 <p><a href="https://github.com/lkzhao?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=swift"><b>See more repos by this developer →</b></a></p>
 <br></br>
 
+## Jake Lin [@JakeLin](https://github.com/JakeLin)
+
+Logo | <b>Location</b> 
+ --- | ---
+ <img src="https://avatars0.githubusercontent.com/u/573856?s=460&v=4" width="50" height="50"> | Melbourne 🇦🇺
+
+
+ Name | Demo | Description
+ --- | :---: | ---
+[IB Animatible](https://github.com/IBAnimatable/IBAnimatable) | <img src="https://raw.githubusercontent.com/IBAnimatable/IBAnimatable-Misc/master/IBAnimatable/IBAnimatable.gif" width="160" height="120"> |  Design and prototype customized UI, interaction, navigation, transition and animation.
+[iOS Animation Sample](https://github.com/JakeLin/iOSAnimationSample) | <img src="https://raw.githubusercontent.com/JakeLin/iOSAnimationSample/master/Screenshots/LoginAnimation.gif" width="120" height="215"> |  This app is an iOS Animation playground to exercise different iOS Animations.
+[Save The Dot](https://github.com/JakeLin/SaveTheDot) | <img src="https://cloud.githubusercontent.com/assets/573856/16248754/90150c2a-3854-11e6-9ee1-c2e4f228a9b6.gif" width="120" height="215"> | A game developed using UIViewPropertyAnimator   
+<p><a href="https://github.com/JakeLin?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=swift"><b>See more repos by this developer →</b></a></p>
+<br></br>
+
+
 ## Hyper [@hyperoslo](https://github.com/hyperoslo)
 
 Logo | <b>Website</b> | <b>Location</b> 
