@@ -422,3 +422,5 @@ Logo | <b>Location</b>
 [Nougat Boot Animation](https://github.com/ybq/nougat-boot-animation) | <img src="https://raw.githubusercontent.com/ybq/nougat-boot-animation/master/art/effect.gif" width="120" height="120"> |  Highly imitation of android 7.0 (nougat) boot animation
 [Parallax View Pager](https://github.com/ybq/ParallaxViewPager) | <img src="https://github.com/ybq/ParallaxViewPager/raw/master/art/screen.gif" width="120" height="213"> | Android Parallax-ViewPager 
 <p><a href="https://github.com/ybq?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=java"><b>See more repos by this developer →</b></a></p>
+
+<br></br>
