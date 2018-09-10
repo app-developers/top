@@ -49,6 +49,21 @@ Logo | <b>Location</b>
 <br></br>
 
 
+## Kevin [@kevinzhow](https://github.com/kevinzhow)
+
+Logo | <b>Website</b> | <b>Location</b> 
+ --- | :---: | ---
+ <img src="https://avatars3.githubusercontent.com/u/1156192?s=400&v=4" width="50" height="50"> | <a href="http://blog.zhowkev.in">Kevin's blog</a> | Beijing 🇨🇳
+
+
+ Name | Demo | Description
+ --- | :---: | ---
+[PN Chart Swift](https://github.com/kevinzhow/PNChart-Swift) | <img src="https://s3.amazonaws.com/farshid.ghods.github/pnchart-gif.gif" width="120" height="213"> |  A simple and beautiful chart lib used in Piner and CoinsMan for iOS
+[Realtime Gradient Text](https://github.com/kevinzhow/RealtimeGradientText) | <img src="https://github.com/kevinzhow/RealtimeGradientText/blob/master/gradient.gif" width="120" height="156"> |  Gradient Text in Real.
+[Naughty Image View](https://github.com/kevinzhow/NaughtyImageView) | <img src="https://github.com/kevinzhow/NaughtyImageView/blob/master/Naughty.gif" width="120" height="213"> | UIImageView Can Animate Sprite Image   
+<p><a href="https://github.com/kevinzhow?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=swift"><b>See more repos by this developer →</b></a></p>
+<br></br>
+
 ## Hyper [@hyperoslo](https://github.com/hyperoslo)
 
 Logo | <b>Website</b> | <b>Location</b> 
