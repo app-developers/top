@@ -6,8 +6,8 @@
 
 # Swift
 ## Ramotion [@Ramotion](https://github.com/Ramotion)
-Logo | <b>Website</b> | <b>Location</b> 
- --- | :---: | ---
+Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
+ --- | :---: | --- | :---:
  <img src="https://avatars2.githubusercontent.com/u/6028820?s=200&v=4" width="50" height="50"> | <a href="https://dev.ramotion.com?utm_source=github&utm_medium=app-developers&utm_campaign=top">dev.ramotion.com</a> | San Francisco, CA 🇺🇸
 
  Name | Demo | Description
@@ -20,8 +20,8 @@ Logo | <b>Website</b> | <b>Location</b>
 
 ## Luke Zhao [@lkzhao](https://github.com/lkzhao)
 
-Logo | <b>Website</b> | <b>Location</b> 
- --- | :---: | ---
+Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
+ --- | :---: | --- | :---:
  <img src="https://avatars1.githubusercontent.com/u/3359850?s=400&v=4" width="50" height="50"> | <a href="http://lkzhao.com?utm_source=github&utm_medium=app-developers&utm_campaign=top">lkzhao.com</a> | Vancouver 🇨🇦
 
 
@@ -35,8 +35,8 @@ Logo | <b>Website</b> | <b>Location</b>
 
 ## Jake Lin [@JakeLin](https://github.com/JakeLin)
 
-Logo | <b>Location</b> 
- --- | ---
+Logo | <b>Location</b> | <b>Social Networks</b>
+ --- | --- | :---:
  <img src="https://avatars0.githubusercontent.com/u/573856?s=460&v=4" width="50" height="50"> | Melbourne 🇦🇺
 
 
@@ -51,8 +51,8 @@ Logo | <b>Location</b>
 
 ## Kevin [@kevinzhow](https://github.com/kevinzhow)
 
-Logo | <b>Website</b> | <b>Location</b> 
- --- | :---: | ---
+Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
+ --- | :---: | --- | :---:
  <img src="https://avatars3.githubusercontent.com/u/1156192?s=400&v=4" width="50" height="50"> | <a href="http://blog.zhowkev.in?utm_source=github&utm_medium=app-developers&utm_campaign=top">Kevin's blog</a> | Beijing 🇨🇳
 
 
@@ -66,8 +66,8 @@ Logo | <b>Website</b> | <b>Location</b>
 
 ## Hyper [@hyperoslo](https://github.com/hyperoslo)
 
-Logo | <b>Website</b> | <b>Location</b> 
- --- | :---: | ---
+Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
+ --- | :---: | --- | :---:
  <img src="https://avatars0.githubusercontent.com/u/1340892?s=200&v=4" width="50" height="50"> | <a href="http://hyper.no?utm_source=github&utm_medium=app-developers&utm_campaign=top">hyper.no</a> | Oslo 🇳🇴
 
  Name | Demo | Description
@@ -80,8 +80,8 @@ Logo | <b>Website</b> | <b>Location</b>
 
 ## CosmicMind [@CosmicMind](https://github.com/CosmicMind)
 
-Logo | <b>Website</b> | <b>Location</b> 
- --- | :---: | ---
+Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
+ --- | :---: | --- | :---:
  <img src="https://avatars1.githubusercontent.com/u/10069574?s=200&v=4" width="50" height="50"> | <a href="http://cosmicmind.com?utm_source=github&utm_medium=app-developers&utm_campaign=top">cosmicmind.com</a> | Toronto 🇨🇦
 
  Name | Demo | Description
@@ -94,8 +94,8 @@ Logo | <b>Website</b> | <b>Location</b>
 
 ## Andrea Mazzini [@andreamazz](https://github.com/andreamazz)
 
-Logo | <b>Website</b> | <b>Location</b> 
- --- | :---: | ---
+Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
+ --- | :---: | --- | :---:
  <img src="https://avatars3.githubusercontent.com/u/570797?s=460&v=4" width="50" height="50"> | <a href="http://whoisandrea.me?utm_source=github&utm_medium=app-developers&utm_campaign=top">whoisandrea.me</a> | Ferrara 🇮🇹
 
  Name | Demo | Description
@@ -108,8 +108,8 @@ Logo | <b>Website</b> | <b>Location</b>
 
 ## Robert-Hein Hooijmans [@roberthein](https://github.com/roberthein)
 
-Logo | <b>Location</b> 
- --- | ---
+Logo | <b>Location</b> | <b>Social Networks</b>
+ --- | --- | :---:
  <img src="https://avatars0.githubusercontent.com/u/474246?s=460&v=4" width="50" height="50"> | Netherlands 🇳🇱
 
  Name | Demo | Description
@@ -137,8 +137,8 @@ Logo | <b>Location</b>
 
 ## Seungyoun Yi [@younatics](https://github.com/younatics)
 
-Logo | <b>Location</b> 
- --- | ---
+Logo | <b>Location</b> | <b>Social Networks</b> 
+ --- | --- | :---:
  <img src="https://avatars3.githubusercontent.com/u/6335975?s=460&v=4" width="50" height="50"> | Seoul 🇰🇷
 
  Name | Demo | Description
@@ -151,8 +151,8 @@ Logo | <b>Location</b>
 
 ## Marcos Griselli [@marcosgriselli](https://github.com/marcosgriselli)
 
-Logo | <b>Location</b> 
- --- | ---
+Logo | <b>Location</b> | <b>Social Networks</b>
+ --- | --- | :---:
  <img src="https://avatars0.githubusercontent.com/u/14804033?s=460&v=4" width="50" height="50"> | Buenos Aires 🇦🇷
 
  Name | Demo | Description
@@ -165,8 +165,8 @@ Logo | <b>Location</b>
 
 ## TBXark [@TBXark](https://github.com/TBXark)
 
-Logo | <b>Website</b> | <b>Location</b> 
- --- | :---: | ---
+Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
+ --- | :---: | --- | :---:
  <img src="https://avatars0.githubusercontent.com/u/9513891?s=460&v=4" width="50" height="50"> | <a href="https://tbxark.site?utm_source=github&utm_medium=app-developers&utm_campaign=top">tbxark.site</a> | Beijing 🇨🇳
  
  Name | Demo | Description
@@ -179,8 +179,8 @@ Logo | <b>Website</b> | <b>Location</b>
 
 ## Takuya Okamoto [@entotsu](https://github.com/entotsu)
 
-Logo |  <b>Location</b> 
- --- |  ---
+Logo |  <b>Location</b> | <b>Social Networks</b>
+ --- | --- | :---:
  <img src="https://avatars1.githubusercontent.com/u/2075801?s=460&v=4" width="50" height="50"> | Tokyo 🇯🇵
  
  Name | Demo | Description
@@ -194,8 +194,8 @@ Logo |  <b>Location</b>
 
 ## Takuma Yoshida [@yoavlt](https://github.com/yoavlt)
 
-Logo |  <b>Location</b> 
- --- |  ---
+Logo |  <b>Location</b> | <b>Social Networks</b>
+ --- |  --- | :---:
  <img src="https://avatars3.githubusercontent.com/u/2039987?s=460&v=4" width="50" height="50"> | Japan 🇯🇵
  
  Name | Demo | Description
@@ -208,8 +208,8 @@ Logo |  <b>Location</b>
 
 ## Dominik Hauser [@dasdom](https://github.com/dasdom)
 
-Logo | <b>Website</b> |<b>Location</b> 
- --- | :---: | ---
+Logo | <b>Website</b> |<b>Location</b> | <b>Social Networks</b>
+ --- | :---: | --- | :---:
  <img src="https://avatars2.githubusercontent.com/u/4385357?s=460&v=4" width="50" height="50"> | <a href="http://swiftandpainless.com?utm_source=github&utm_medium=app-developers&utm_campaign=top">swiftandpainless.com</a> | Düsseldorf 🇩🇪
  
  Name | Demo | Description
@@ -222,8 +222,8 @@ Logo | <b>Website</b> |<b>Location</b>
 
 ## Patrick Balestra [@BalestraPatrick](https://github.com/BalestraPatrick)
 
-Logo | <b>Website</b> |<b>Location</b> 
- --- | :---: | ---
+Logo | <b>Website</b> |<b>Location</b> | <b>Social Networks</b>
+ --- | :---: | --- | :---:
  <img src="https://avatars1.githubusercontent.com/u/3658887?s=460&v=4" width="50" height="50"> | <a href="http://www.patrickbalestra.com?utm_source=github&utm_medium=app-developers&utm_campaign=top">patrickbalestra.com</a> | Bellinzona 🇨🇭
  
  Name | Demo | Description
@@ -236,8 +236,8 @@ Logo | <b>Website</b> |<b>Location</b>
 
 ## W_C__L [@imwcl](https://github.com/imwcl)
 
-Logo | <b>Website</b> |<b>Location</b> 
- --- | :---: | ---
+Logo | <b>Website</b> |<b>Location</b> | <b>Social Networks</b>
+ --- | :---: | --- | :---:
  <img src="https://avatars3.githubusercontent.com/u/8589061?s=460&v=4" width="50" height="50"> | <a href="https://imwcl.com?utm_source=github&utm_medium=app-developers&utm_campaign=top">imwcl.com</a> | Hangzhou 🇨🇳
  
  Name | Demo | Description
@@ -252,8 +252,8 @@ Logo | <b>Website</b> |<b>Location</b>
 
 ## Weiping Huang [@Nightonke](https://github.com/Nightonke)
 
-Logo | <b>Website</b> | <b>Location</b> 
- :---: | :---: | :---:
+Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
+ :---: | :---: | :---: | :---:
  <img src="https://avatars3.githubusercontent.com/u/7379793?s=460&v=4" width="50" height="50"> | <a href="https://nightonke.outlook.io?utm_source=github&utm_medium=app-developers&utm_campaign=top">nightonke.outlook.io</a> | Guangzhou 🇨🇳
 
 
@@ -268,8 +268,8 @@ Logo | <b>Website</b> | <b>Location</b>
 
 ## 代码家 [@daimajia](https://github.com/daimajia)
 
-Logo | <b>Location</b> 
- :---: | :---:
+Logo | <b>Location</b> | <b>Social Networks</b>
+ :---: | :---: | :---:
  <img src="https://avatars2.githubusercontent.com/u/2503423?s=460&v=4" width="50" height="50"> | Beijing 🇨🇳
 
 
@@ -283,8 +283,8 @@ Logo | <b>Location</b>
 
 ## Florent CHAMPIGNY [@florent37](https://github.com/florent37)
 
-Logo | <b>Website</b> | <b>Location</b> 
- :---: | :---: | :---:
+Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
+ :---: | :---: | :---: | :---:
  <img src="https://avatars3.githubusercontent.com/u/5754972?s=460&v=4" width="50" height="50"> | <a href="http://www.florentchampigny.com?utm_source=github&utm_medium=app-developers&utm_campaign=top">florentchampigny.com</a> | Paris 🇫🇷
 
 
@@ -299,8 +299,8 @@ Logo | <b>Website</b> | <b>Location</b>
 
 ## Ramotion [@RamotionDev](https://github.com/RamotionDev)
 
-Logo | <b>Website</b> | <b>Location</b> 
- :---: | :---: | :---:
+Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
+ :---: | :---: | :---: | :---:
  <img src="https://avatars2.githubusercontent.com/u/6028820?s=200&v=4" width="50" height="50"> | <a href="https://dev.ramotion.com?utm_source=github&utm_medium=app-developers&utm_campaign=top">dev.ramotion.com</a> | San Francisco, CA 🇺🇸
 
 
@@ -315,8 +315,8 @@ Logo | <b>Website</b> | <b>Location</b>
 
 ## Mert Şimşek [@iammert](https://github.com/iammert)
 
-Logo | <b>Location</b> 
- :---: | :---:
+Logo | <b>Location</b> | <b>Social Networks</b>
+ :---: | :---: | :---:
  <img src="https://avatars2.githubusercontent.com/u/11799296?s=460&v=4" width="50" height="50"> | Istanbul 🇹🇷
 
 
@@ -331,8 +331,8 @@ Logo | <b>Location</b>
 
 ## CJJ [@android-cjj](https://github.com/android-cjj)
 
-Logo | <b>Location</b> 
- :---: | :---:
+Logo | <b>Location</b> | <b>Social Networks</b>
+ :---: | :---: | :---:
  <img src="https://avatars0.githubusercontent.com/u/7941050?s=460&v=4" width="50" height="50"> | Guangzhou 🇨🇳
 
 
@@ -347,8 +347,8 @@ Logo | <b>Location</b>
 
 ## Adrián Lomas [@glomadrian](https://github.com/glomadrian)
 
-Logo | <b>Website</b> | <b>Location</b> 
- :---: | :---: | :---:
+Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
+ :---: | :---: | :---: | :---:
  <img src="https://avatars2.githubusercontent.com/u/5353046?s=460&v=4" width="50" height="50"> | <a href="https://glomadrian.github.io?utm_source=github&utm_medium=app-developers&utm_campaign=top">glomadrian.github.io</a> | Barcelona 🇪🇸
 
 
@@ -363,8 +363,8 @@ Logo | <b>Website</b> | <b>Location</b>
 
 ## André Mion [@andremion](https://github.com/andremion)
 
-Logo | <b>Location</b> 
- :---: | :---:
+Logo | <b>Location</b> | <b>Social Networks</b>
+ :---: | :---: | :---:
  <img src="https://avatars2.githubusercontent.com/u/12762356?s=460&v=4" width="50" height="50"> | Portugal 🇵🇹
 
 
@@ -379,8 +379,8 @@ Logo | <b>Location</b>
 
 ## Devlight [@Devlight](https://github.com/Devlight)
 
-Logo | <b>Website</b> | <b>Location</b> 
- :---: | :---: | :---:
+Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
+ :---: | :---: | :---: | :---:
  <img src="https://avatars0.githubusercontent.com/u/18118313?s=200&v=4" width="50" height="50"> | <a href="http://devlight.io?utm_source=github&utm_medium=app-developers&utm_campaign=top">devlight.io</a> | Ukraine 🇺🇦
 
 
@@ -395,8 +395,8 @@ Logo | <b>Website</b> | <b>Location</b>
 
 ## Stfalcon LLC [@stfalcon-studio](https://github.com/stfalcon-studio)
 
-Logo | <b>Website</b> | <b>Location</b> 
- :---: | :---: | :---:
+Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
+ :---: | :---: | :---: | :---:
  <img src="https://avatars3.githubusercontent.com/u/814925?s=200&v=4" width="50" height="50"> | <a href="http://stfalcon.com?utm_source=github&utm_medium=app-developers&utm_campaign=top">stfalcon.com</a> | Ukraine 🇺🇦
 
 
@@ -411,8 +411,8 @@ Logo | <b>Website</b> | <b>Location</b>
 
 ## Keepsafe [@KeepSafe](https://github.com/KeepSafe)
 
-Logo | <b>Website</b> | <b>Location</b> 
- :---: | :---: | :---:
+Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
+ :---: | :---: | :---: | :---:
  <img src="https://avatars1.githubusercontent.com/u/1377248?s=200&v=4" width="50" height="50"> | <a href="http://www.keepsafe.tech?utm_source=github&utm_medium=app-developers&utm_campaign=top">keepsafe.tech</a> | San Francisco, CA 🇺🇸
 
 
@@ -426,8 +426,8 @@ Logo | <b>Website</b> | <b>Location</b>
 
 ## ybq [@ybq](https://github.com/ybq)
 
-Logo | <b>Location</b> 
- :---: | :---: 
+Logo | <b>Location</b> | <b>Social Networks</b>
+ :---: | :---: | :---:
  <img src="https://avatars0.githubusercontent.com/u/1949097?s=460&v=4" width="50" height="50"> | Beijing 🇨🇳
 
 
