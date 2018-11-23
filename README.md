@@ -8,7 +8,7 @@
 ## Ramotion [@Ramotion](https://github.com/Ramotion)
 Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
  --- | :---: | --- | :---:
- <img src="https://avatars2.githubusercontent.com/u/6028820?s=200&v=4" width="50" height="50"> | <a href="https://dev.ramotion.com?utm_source=github&utm_medium=app-developers&utm_campaign=top">dev.ramotion.com</a> | San Francisco, CA 🇺🇸
+ <img src="https://avatars2.githubusercontent.com/u/6028820?s=200&v=4" width="50" height="50"> | <a href="https://dev.ramotion.com?utm_source=github&utm_medium=app-developers&utm_campaign=top">dev.ramotion.com</a> | San Francisco, CA 🇺🇸| <a href="https://twitter.com/ramotion"><img src="https://github.com/app-developers/top/blob/master/sn%20icons/twitter.png" width="40" height="40"></a>
 
  Name | Demo | Description
  --- | :---: | ---
@@ -22,7 +22,7 @@ Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
 
 Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
  --- | :---: | --- | :---:
- <img src="https://avatars1.githubusercontent.com/u/3359850?s=400&v=4" width="50" height="50"> | <a href="http://lkzhao.com?utm_source=github&utm_medium=app-developers&utm_campaign=top">lkzhao.com</a> | Vancouver 🇨🇦
+ <img src="https://avatars1.githubusercontent.com/u/3359850?s=400&v=4" width="50" height="50"> | <a href="http://lkzhao.com?utm_source=github&utm_medium=app-developers&utm_campaign=top">lkzhao.com</a> | Vancouver 🇨🇦 | <a href="https://twitter.com/lkzhao"><img src="https://github.com/app-developers/top/blob/master/sn%20icons/twitter.png" width="40" height="40"></a>
 
 
  Name | Demo | Description
@@ -68,7 +68,7 @@ Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
 
 Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
  --- | :---: | --- | :---:
- <img src="https://avatars0.githubusercontent.com/u/1340892?s=200&v=4" width="50" height="50"> | <a href="http://hyper.no?utm_source=github&utm_medium=app-developers&utm_campaign=top">hyper.no</a> | Oslo 🇳🇴
+ <img src="https://avatars0.githubusercontent.com/u/1340892?s=200&v=4" width="50" height="50"> | <a href="http://hyper.no?utm_source=github&utm_medium=app-developers&utm_campaign=top">hyper.no</a> | Oslo 🇳🇴| <a href="https://twitter.com/hyperoslo"><img src="https://github.com/app-developers/top/blob/master/sn%20icons/twitter.png" width="40" height="40"></a>
 
  Name | Demo | Description
  --- | :---: | ---
@@ -96,7 +96,7 @@ Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
 
 Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
  --- | :---: | --- | :---:
- <img src="https://avatars3.githubusercontent.com/u/570797?s=460&v=4" width="50" height="50"> | <a href="http://whoisandrea.me?utm_source=github&utm_medium=app-developers&utm_campaign=top">whoisandrea.me</a> | Ferrara 🇮🇹
+ <img src="https://avatars3.githubusercontent.com/u/570797?s=460&v=4" width="50" height="50"> | <a href="http://whoisandrea.me?utm_source=github&utm_medium=app-developers&utm_campaign=top">whoisandrea.me</a> | Ferrara 🇮🇹| <a href="https://twitter.com/theandreamazz"><img src="https://github.com/app-developers/top/blob/master/sn%20icons/twitter.png" width="40" height="40"></a>
 
  Name | Demo | Description
  --- | :---: | ---
@@ -110,7 +110,7 @@ Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
 
 Logo | <b>Location</b> | <b>Social Networks</b>
  --- | --- | :---:
- <img src="https://avatars0.githubusercontent.com/u/474246?s=460&v=4" width="50" height="50"> | Netherlands 🇳🇱
+ <img src="https://avatars0.githubusercontent.com/u/474246?s=460&v=4" width="50" height="50"> | Netherlands 🇳🇱| <a href="https://twitter.com/roberthein"><img src="https://github.com/app-developers/top/blob/master/sn%20icons/twitter.png" width="40" height="40"></a>
 
  Name | Demo | Description
  --- | :---: | :---:
@@ -124,7 +124,7 @@ Logo | <b>Location</b> | <b>Social Networks</b>
 
 Logo | <b>Location</b> 
  --- | ---
- <img src="https://avatars2.githubusercontent.com/u/2082134?s=460&v=4" width="50" height="50"> | Tokyo 🇯🇵
+ <img src="https://avatars2.githubusercontent.com/u/2082134?s=460&v=4" width="50" height="50"> | Tokyo 🇯🇵| <a href="https://twitter.com/marty_suzuki"><img src="https://github.com/app-developers/top/blob/master/sn%20icons/twitter.png" width="40" height="40"></a>
 
  Name | Demo | Description
  --- | :---: | :---:
@@ -139,7 +139,7 @@ Logo | <b>Location</b>
 
 Logo | <b>Location</b> | <b>Social Networks</b> 
  --- | --- | :---:
- <img src="https://avatars3.githubusercontent.com/u/6335975?s=460&v=4" width="50" height="50"> | Seoul 🇰🇷
+ <img src="https://avatars3.githubusercontent.com/u/6335975?s=460&v=4" width="50" height="50"> | Seoul 🇰🇷| <a href="https://twitter.com/younatics"><img src="https://github.com/app-developers/top/blob/master/sn%20icons/twitter.png" width="40" height="40"></a> 
 
  Name | Demo | Description
  --- | :---: | :---:
@@ -149,11 +149,11 @@ Logo | <b>Location</b> | <b>Social Networks</b>
 <p><a href="https://github.com/younatics?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=swift"><b>See more repos by this developer →</b></a></p>
 <br></br>
 
-## Marcos Griselli [@marcosgriselli](https://github.com/marcosgriselli)
+## Marcos Griselli [@marcosgriselli](https://github.com/marcosgriselli) 
 
 Logo | <b>Location</b> | <b>Social Networks</b>
  --- | --- | :---:
- <img src="https://avatars0.githubusercontent.com/u/14804033?s=460&v=4" width="50" height="50"> | Buenos Aires 🇦🇷
+ <img src="https://avatars0.githubusercontent.com/u/14804033?s=460&v=4" width="50" height="50"> | Buenos Aires 🇦🇷| <a href="https://twitter.com/marcosgriselli"><img src="https://github.com/app-developers/top/blob/master/sn%20icons/twitter.png" width="40" height="40"></a> 
 
  Name | Demo | Description
  --- | :---: | :---:
@@ -163,11 +163,12 @@ Logo | <b>Location</b> | <b>Social Networks</b>
 <p><a href="https://github.com/marcosgriselli?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=swift"><b>See more repos by this developer →</b></a></p>
 <br></br>
 
-## TBXark [@TBXark](https://github.com/TBXark)
+## TBXark [@TBXark](https://github.com/TBXark) 
 
 Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
  --- | :---: | --- | :---:
- <img src="https://avatars0.githubusercontent.com/u/9513891?s=460&v=4" width="50" height="50"> | <a href="https://tbxark.site?utm_source=github&utm_medium=app-developers&utm_campaign=top">tbxark.site</a> | Beijing 🇨🇳
+ <img src="https://avatars0.githubusercontent.com/u/9513891?s=460&v=4" width="50" height="50"> | <a href="https://tbxark.site?utm_source=github&utm_medium=app-developers&utm_campaign=top">tbxark.site</a> | Beijing 🇨🇳 | <a href="https://twitter.com/tbxark"><img src="https://github.com/app-developers/top/blob/master/sn%20icons/twitter.png" width="40" height="40"></a> 
+
  
  Name | Demo | Description
  --- | :---: | :---:
@@ -177,11 +178,11 @@ Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
 <p><a href="https://github.com/TBXark?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=swift"><b>See more repos by this developer →</b></a></p>
 <br></br>
 
-## Takuya Okamoto [@entotsu](https://github.com/entotsu)
+## Takuya Okamoto [@entotsu](https://github.com/entotsu) 
 
 Logo |  <b>Location</b> | <b>Social Networks</b>
  --- | --- | :---:
- <img src="https://avatars1.githubusercontent.com/u/2075801?s=460&v=4" width="50" height="50"> | Tokyo 🇯🇵
+ <img src="https://avatars1.githubusercontent.com/u/2075801?s=460&v=4" width="50" height="50"> | Tokyo 🇯🇵| <a href="https://twitter.com/taku_oka"><img src="https://github.com/app-developers/top/blob/master/sn%20icons/twitter.png" width="40" height="40"></a> 
  
  Name | Demo | Description
  --- | :---: | :---:
@@ -206,11 +207,11 @@ Logo |  <b>Location</b> | <b>Social Networks</b>
 <p><a href="https://github.com/yoavlt?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=swift"><b>See more repos by this developer →</b></a></p>
 <br></br>
 
-## Dominik Hauser [@dasdom](https://github.com/dasdom)
+## Dominik Hauser [@dasdom](https://github.com/dasdom) 
 
 Logo | <b>Website</b> |<b>Location</b> | <b>Social Networks</b>
  --- | :---: | --- | :---:
- <img src="https://avatars2.githubusercontent.com/u/4385357?s=460&v=4" width="50" height="50"> | <a href="http://swiftandpainless.com?utm_source=github&utm_medium=app-developers&utm_campaign=top">swiftandpainless.com</a> | Düsseldorf 🇩🇪
+ <img src="https://avatars2.githubusercontent.com/u/4385357?s=460&v=4" width="50" height="50"> | <a href="http://swiftandpainless.com?utm_source=github&utm_medium=app-developers&utm_campaign=top">swiftandpainless.com</a> | Düsseldorf 🇩🇪| <a href="https://twitter.com/dasdom"><img src="https://github.com/app-developers/top/blob/master/sn%20icons/twitter.png" width="40" height="40"></a> 
  
  Name | Demo | Description
  --- | :---: | :---:
@@ -220,11 +221,11 @@ Logo | <b>Website</b> |<b>Location</b> | <b>Social Networks</b>
 <p><a href="https://github.com/dasdom?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=swift"><b>See more repos by this developer →</b></a></p>
 <br></br>
 
-## Patrick Balestra [@BalestraPatrick](https://github.com/BalestraPatrick)
+## Patrick Balestra [@BalestraPatrick](https://github.com/BalestraPatrick) 
 
 Logo | <b>Website</b> |<b>Location</b> | <b>Social Networks</b>
  --- | :---: | --- | :---:
- <img src="https://avatars1.githubusercontent.com/u/3658887?s=460&v=4" width="50" height="50"> | <a href="http://www.patrickbalestra.com?utm_source=github&utm_medium=app-developers&utm_campaign=top">patrickbalestra.com</a> | Bellinzona 🇨🇭
+ <img src="https://avatars1.githubusercontent.com/u/3658887?s=460&v=4" width="50" height="50"> | <a href="http://www.patrickbalestra.com?utm_source=github&utm_medium=app-developers&utm_campaign=top">patrickbalestra.com</a> | Bellinzona 🇨🇭| <a href="https://twitter.com/BalestraPatrick"><img src="https://github.com/app-developers/top/blob/master/sn%20icons/twitter.png" width="40" height="40"></a>
  
  Name | Demo | Description
  --- | :---: | :---:
