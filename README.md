@@ -271,7 +271,7 @@ Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
 
 Logo | <b>Location</b> | <b>Social Networks</b>
  :---: | :---: | :---:
- <img src="https://avatars2.githubusercontent.com/u/2503423?s=460&v=4" width="50" height="50"> | Beijing 🇨🇳
+ <img src="https://avatars2.githubusercontent.com/u/2503423?s=460&v=4" width="50" height="50"> | Beijing 🇨🇳| <a href="https://twitter.com/daimajia"><img src="https://github.com/app-developers/top/blob/master/sn%20icons/twitter.png" width="40" height="40"></a> 
 
 
  Name | Demo | Description
@@ -286,7 +286,7 @@ Logo | <b>Location</b> | <b>Social Networks</b>
 
 Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
  :---: | :---: | :---: | :---:
- <img src="https://avatars3.githubusercontent.com/u/5754972?s=460&v=4" width="50" height="50"> | <a href="http://www.florentchampigny.com?utm_source=github&utm_medium=app-developers&utm_campaign=top">florentchampigny.com</a> | Paris 🇫🇷
+ <img src="https://avatars3.githubusercontent.com/u/5754972?s=460&v=4" width="50" height="50"> | <a href="http://www.florentchampigny.com?utm_source=github&utm_medium=app-developers&utm_campaign=top">florentchampigny.com</a> | Paris 🇫🇷| <a href="https://twitter.com/florent_champ"><img src="https://github.com/app-developers/top/blob/master/sn%20icons/twitter.png" width="40" height="40"></a> 
 
 
  Name | Demo | Description
@@ -302,7 +302,7 @@ Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
 
 Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
  :---: | :---: | :---: | :---:
- <img src="https://avatars2.githubusercontent.com/u/6028820?s=200&v=4" width="50" height="50"> | <a href="https://dev.ramotion.com?utm_source=github&utm_medium=app-developers&utm_campaign=top">dev.ramotion.com</a> | San Francisco, CA 🇺🇸
+ <img src="https://avatars2.githubusercontent.com/u/6028820?s=200&v=4" width="50" height="50"> | <a href="https://dev.ramotion.com?utm_source=github&utm_medium=app-developers&utm_campaign=top">dev.ramotion.com</a> | San Francisco, CA 🇺🇸 | <a href="https://twitter.com/ramotion"><img src="https://github.com/app-developers/top/blob/master/sn%20icons/twitter.png" width="40" height="40"></a> 
 
 
  Name | Demo | Description
@@ -318,8 +318,7 @@ Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
 
 Logo | <b>Location</b> | <b>Social Networks</b>
  :---: | :---: | :---:
- <img src="https://avatars2.githubusercontent.com/u/11799296?s=460&v=4" width="50" height="50"> | Istanbul 🇹🇷
-
+ <img src="https://avatars2.githubusercontent.com/u/11799296?s=460&v=4" width="50" height="50"> | Istanbul 🇹🇷 | <a href="https://twitter.com/kotlinist"><img src="https://github.com/app-developers/top/blob/master/sn%20icons/twitter.png" width="40" height="40"></a> 
 
  Name | Demo | Description
  --- | :---: | ---
@@ -350,7 +349,7 @@ Logo | <b>Location</b> | <b>Social Networks</b>
 
 Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
  :---: | :---: | :---: | :---:
- <img src="https://avatars2.githubusercontent.com/u/5353046?s=460&v=4" width="50" height="50"> | <a href="https://glomadrian.github.io?utm_source=github&utm_medium=app-developers&utm_campaign=top">glomadrian.github.io</a> | Barcelona 🇪🇸
+ <img src="https://avatars2.githubusercontent.com/u/5353046?s=460&v=4" width="50" height="50"> | <a href="https://glomadrian.github.io?utm_source=github&utm_medium=app-developers&utm_campaign=top">glomadrian.github.io</a> | Barcelona 🇪🇸 | <a href="https://twitter.com/glomadrian"><img src="https://github.com/app-developers/top/blob/master/sn%20icons/twitter.png" width="40" height="40"></a> 
 
 
  Name | Demo | Description
@@ -366,7 +365,7 @@ Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
 
 Logo | <b>Location</b> | <b>Social Networks</b>
  :---: | :---: | :---:
- <img src="https://avatars2.githubusercontent.com/u/12762356?s=460&v=4" width="50" height="50"> | Portugal 🇵🇹
+ <img src="https://avatars2.githubusercontent.com/u/12762356?s=460&v=4" width="50" height="50"> | Portugal 🇵🇹 | <a href="https://twitter.com/andremion"><img src="https://github.com/app-developers/top/blob/master/sn%20icons/twitter.png" width="40" height="40"></a> 
 
 
  Name | Demo | Description
@@ -382,7 +381,7 @@ Logo | <b>Location</b> | <b>Social Networks</b>
 
 Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
  :---: | :---: | :---: | :---:
- <img src="https://avatars0.githubusercontent.com/u/18118313?s=200&v=4" width="50" height="50"> | <a href="http://devlight.io?utm_source=github&utm_medium=app-developers&utm_campaign=top">devlight.io</a> | Ukraine 🇺🇦
+ <img src="https://avatars0.githubusercontent.com/u/18118313?s=200&v=4" width="50" height="50"> | <a href="http://devlight.io?utm_source=github&utm_medium=app-developers&utm_campaign=top">devlight.io</a> | Ukraine 🇺🇦 | <a href="https://twitter.com/devlightio"><img src="https://github.com/app-developers/top/blob/master/sn%20icons/twitter.png" width="40" height="40"></a> 
 
 
  Name | Demo | Description
@@ -398,7 +397,7 @@ Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
 
 Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
  :---: | :---: | :---: | :---:
- <img src="https://avatars3.githubusercontent.com/u/814925?s=200&v=4" width="50" height="50"> | <a href="http://stfalcon.com?utm_source=github&utm_medium=app-developers&utm_campaign=top">stfalcon.com</a> | Ukraine 🇺🇦
+ <img src="https://avatars3.githubusercontent.com/u/814925?s=200&v=4" width="50" height="50"> | <a href="http://stfalcon.com?utm_source=github&utm_medium=app-developers&utm_campaign=top">stfalcon.com</a> | Ukraine 🇺🇦 | <a href="https://twitter.com/stfalconcom"><img src="https://github.com/app-developers/top/blob/master/sn%20icons/twitter.png" width="40" height="40"></a> 
 
 
  Name | Demo | Description
@@ -414,7 +413,7 @@ Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
 
 Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
  :---: | :---: | :---: | :---:
- <img src="https://avatars1.githubusercontent.com/u/1377248?s=200&v=4" width="50" height="50"> | <a href="http://www.keepsafe.tech?utm_source=github&utm_medium=app-developers&utm_campaign=top">keepsafe.tech</a> | San Francisco, CA 🇺🇸
+ <img src="https://avatars1.githubusercontent.com/u/1377248?s=200&v=4" width="50" height="50"> | <a href="http://www.keepsafe.tech?utm_source=github&utm_medium=app-developers&utm_campaign=top">keepsafe.tech</a> | San Francisco, CA 🇺🇸 | <a href="https://twitter.com/keepsafeeng"><img src="https://github.com/app-developers/top/blob/master/sn%20icons/twitter.png" width="40" height="40"></a> 
 
 
  Name | Demo | Description
