@@ -441,3 +441,19 @@ Logo | <b>Location</b> | <b>Social Networks</b>
 <br></br>
 
 # Kotlin
+
+
+## Aidan Follestad [@afollestad](https://github.com/afollestad)
+
+Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
+ :---: | :---: | :---: | :---:
+ <img src="https://avatars2.githubusercontent.com/u/1820165?s=460&v=4" width="50" height="50"> | <a href="https://aidanfollestad.com?utm_source=github&utm_medium=app-developers&utm_campaign=top">aidanfollestad.com</a> | San Francisco, CA 🇺🇸 | <a href="https://twitter.com/afollestad"><img src="https://github.com/app-developers/top/blob/master/sn%20icons/twitter.png" width="40" height="40"></a>  
+
+
+ Name | Demo | Description
+ --- | :---: | ---
+[Material Dialogs](https://github.com/afollestad/material-dialogs) | <img src="https://raw.githubusercontent.com/afollestad/material-dialogs/master/art/color_chooser.png" width="120" height="223"> |  A beautiful and fluid dialogs API for Kotlin & Android 
+[Aesthetic](https://github.com/afollestad/aesthetic) | <img src="https://raw.githubusercontent.com/afollestad/aesthetic/master/images/2.jpg" width="160" height="99"> |  A fast, easy to use, dynamic theme engine.
+[Drag Select Recycle View](https://github.com/afollestad/drag-select-recyclerview) | <img src="https://raw.githubusercontent.com/afollestad/drag-select-recyclerview/master/art/range.gif" width="120" height="214"> | Easy Google Photos style multi-selection for RecyclerViews 
+<p><a href="https://github.com/afollestad?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=kotlin"><b>See more repos by this developer →</b></a></p>
+<br></br>
