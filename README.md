@@ -457,3 +457,5 @@ Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
 [Drag Select Recycle View](https://github.com/afollestad/drag-select-recyclerview) | <img src="https://raw.githubusercontent.com/afollestad/drag-select-recyclerview/master/art/range.gif" width="120" height="214"> | Easy Google Photos style multi-selection for RecyclerViews 
 <p><a href="https://github.com/afollestad?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=kotlin"><b>See more repos by this developer →</b></a></p>
 <br></br>
+
+Check out <a href="https://uxplanet.org/top-mobile-app-development-companies-8793ea38be38"><b>Top Mobile App Design (UI/UX) and Development Companies →</b></a>
