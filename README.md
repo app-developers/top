@@ -457,4 +457,4 @@ Logo | <b>Website</b> | <b>Location</b> | <b>Social Networks</b>
 <p><a href="https://github.com/afollestad?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=kotlin"><b>See more repos by this developer →</b></a></p>
 <br><br>
 <p><b>CHECK OUT</b> <br>
-<a href="https://uxplanet.org/top-mobile-app-development-companies-8793ea38be38"><b>Top Mobile App Design (UI/UX) and Development Companies  →</b></a></p>
+<a href="https://uxplanet.org/top-mobile-app-development-companies-8793ea38be38"><b>Top Mobile App Design (UI/UX) and Development Companies →</b></a></p>
