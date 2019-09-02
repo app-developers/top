@@ -1,4 +1,4 @@
-# Top App Developers - August 2019 
+# Top App Developers - September 2019 
 
 - [Swift](#swift)
 - [Java](#java)
