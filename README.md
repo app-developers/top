@@ -1,4 +1,4 @@
-# Top App Developers - September 2019 
+# Top App Developers - December 2021
 
 - [Swift](#swift)
 - [Java](#java)
